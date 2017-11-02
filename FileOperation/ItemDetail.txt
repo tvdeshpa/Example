@@ -1,0 +1,8 @@
+1,Palio Expert Table Tennis Bat,333,40,
+2,Asics 4967 Shoes,1000,45
+3,Iphone 7,1,750
+4,iClever Extension Board,4,65
+5,Water bottle,7,20
+6,Hand Gloves,4,30
+7,Duracell Coppertop,6,8.9
+8,iPad Mini,2,450
